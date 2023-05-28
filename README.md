@@ -26,6 +26,10 @@ Please note that as Grocery-Store is a customized application developed for a sp
 grocery Dashboard application link https://github.com/chahedmoetaz/Shopoo
 Delivery Boy (Driver) application link https://github.com/chahedmoetaz/Venven
 
+
+## feel free to contact us : https://wa.me/21654120687 or chahedmoetaz@gmail.com
+
+
 ## Photos
 ![Preview](/1.jpg)
 ![Preview](2.jpg)
